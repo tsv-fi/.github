@@ -1,2 +1,1 @@
-# The Federation of Finnish Learned Societies
-The Federation of Finnish Learned Societies, established in 1899, is a national co-operative body for learned societies in Finland. We host Journal.fi and Edition.fi publishing platforms and activitely participate in the development of Open Journal Systems and other Public Knowledge Project applications.
+The Federation of Finnish Learned Societies, established in 1899, is a national co-operative body for learned societies in Finland. We host [Journal.fi](https://journal.fi) and [Edition.fi](https://edition.fi) publishing platforms and activitely participate in the development of Open Journal Systems and other [Public Knowledge Project applications](https://github.com/pkp).
